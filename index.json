@@ -1,0 +1,211 @@
+[
+    {
+        "image_id": 101,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2016/11/30/20/58/programming-1873854_1280.png",
+        "image_description": "A programmer typing code on a laptop surrounded by coffee cups and sticky notes."
+    },
+
+    {
+        "image_id": 102,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_960_720.jpg",
+        "image_description": "Colorful code editor on a dark screen displaying HTML, CSS, and JavaScript snippets."
+    },
+
+    {
+        "image_id": 103,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2024/05/21/19/58/code-8779047_1280.jpg",
+        "image_description": "Developer debugging software while sitting in a cozy workspace with dual monitors."
+    },
+
+    {
+        "image_id": 104,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg",
+        "image_description": "Hands writing Python code in a minimalist, modern programming setup."
+    },
+
+    {
+        "image_id": 105,
+        "image_category": "Programming",
+        "image_url": "https://media.istockphoto.com/id/1164357236/photo/developing-programmer-reading-computer-codes-development-website-design-and-coding.jpg?s=1024x1024&w=is&k=20&c=eA5ggSW5BaYDApPxuomVtnHZ5AN7VB2ruTD7_03tXPg=",
+        "image_description": "A flowchart diagram illustrating a software development lifecycle on a whiteboard."
+    },
+
+    {
+        "image_id": 106,
+        "image_category": "Programming",
+        "image_url": "https://media.istockphoto.com/id/1386341272/photo/abstract-modern-tech-of-programming-code-screen-developer.jpg?s=1024x1024&w=is&k=20&c=jpW8mLvcrvhgDyPbwHV7OoluREDU5GLxk-I6gg13hw8=",
+        "image_description": "Close-up of code on a screen with syntax highlighting for JavaScript functions."
+    },
+
+    {
+        "image_id": 107,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2020/09/27/13/15/data-5606639_1280.jpg",
+        "image_description": "Developer working late night with glowing screens filled with terminal windows."
+    },
+
+    {
+        "image_id": 108,
+        "image_category": "Programming",
+        "image_url": "https://media.istockphoto.com/id/1391198660/photo/hands-printing-on-laptop-banner.jpg?s=1024x1024&w=is&k=20&c=WUV9wg9qgNs28vEAoVuvLtQ7Ej-rHlmEWJLwG2MpUX4=",
+        "image_description": "Front-end developer previewing responsive web design on multiple screen sizes."
+    },
+
+    {
+        "image_id": 109,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
+        "image_description": "Monitor displaying SQL queries beside a notebook with handwritten database schema notes."
+    },
+
+    {
+        "image_id": 110,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg",
+        "image_description": "Group of coders collaborating during a hackathon in a tech workspace."
+    },
+
+    {
+        "image_id": 111,
+        "image_category": "Programming",
+        "image_url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1506&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "image_description": "Code editor open on a laptop with C++ code and compilation errors."
+    },
+
+    {
+        "image_id": 112,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_960_720.jpg",
+        "image_description": "Flat lay of coding books, laptop, and headphones on a wooden desk."
+    },
+
+    {
+        "image_id": 113,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+        "image_description": "Programmer writing machine learning code in Python using TensorFlow and Jupyter Notebook."
+    },
+
+    {
+        "image_id": 114,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2016/03/27/18/54/technology-1283624_1280.jpg",
+        "image_description": "GitHub dashboard showing commits, pull requests, and repository activity."
+    },
+
+    {
+        "image_id": 115,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_1280.jpg",
+        "image_description": "Developer sipping coffee while reviewing pull requests on a laptop screen."
+    },
+
+    {
+        "image_id": 116,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2016/11/19/15/32/laptop-1839876_1280.jpg",
+        "image_description": "Large monitor showing object-oriented code with UML diagrams in the background."
+    },
+
+    {
+        "image_id": 117,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/09/05/10/20/business-2717066_1280.jpg",
+        "image_description": "Computer screen filled with color-coded HTML and CSS for a website layout."
+    },
+
+    {
+        "image_id": 118,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2019/07/12/18/48/code-4333398_960_720.jpg",
+        "image_description": "Woman coding at night with blue screen light illuminating her face."
+    },
+
+    {
+        "image_id": 119,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2015/06/24/15/45/code-820275_1280.jpg",
+        "image_description": "Close-up of hands on keyboard typing in a command-line interface."
+    },
+
+    {
+        "image_id": 120,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_1280.jpg",
+        "image_description": "Pair programming session with two developers sharing a single computer screen."
+    },
+
+    {
+        "image_id": 121,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_1280.jpg",
+        "image_description": "Android developer testing an app on multiple mobile devices on a desk."
+    },
+
+    {
+        "image_id": 122,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2014/12/30/05/42/source-code-583537_1280.jpg",
+        "image_description": "Classroom setting with students learning to code using laptops and digital whiteboards."
+    },
+
+    {
+        "image_id": 123,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2015/09/09/21/12/monitor-933392_1280.jpg",
+        "image_description": "Code comments and to-do notes visible in an IDE during development."
+    },
+
+    {
+        "image_id": 124,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/09/05/10/20/business-2717066_1280.jpg",
+        "image_description": "Remote developer attending a virtual stand-up meeting via video call."
+    },
+
+    {
+        "image_id": 125,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_1280.jpg",
+        "image_description": "Startup office with developers collaborating on laptops in an agile team environment."
+    },
+
+    {
+        "image_id": 126,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2015/09/09/21/12/monitor-933392_1280.jpg",
+        "image_description": "Robotic arm being programmed using a visual coding interface on a tablet."
+    },
+
+    {
+        "image_id": 127,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2014/12/30/05/42/source-code-583537_1280.jpg",
+        "image_description": "Stack of programming language books beside a glowing laptop on a desk."
+    },
+
+    {
+        "image_id": 128,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_1280.jpg",
+        "image_description": "Programmer editing CSS styles live in a browser’s developer tools panel."
+    },
+
+    {
+        "image_id": 129,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2019/07/12/18/48/code-4333398_960_720.jpg",
+        "image_description": "Terminal window running a Python script generating live data output."
+    },
+
+    {
+        "image_id": 130,
+        "image_category": "Programming",
+        "image_url": "https://cdn.pixabay.com/photo/2017/08/10/08/47/laptop-2620118_1280.jpg",
+        "image_description": "Diagram of REST API architecture on a glass wall using dry-erase markers."
+    }
+]
